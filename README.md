@@ -2,7 +2,7 @@
 
 I'm a fullstack software developer 
 
-### Tecnologías con las que trabajo:
+### Skills:
 
 **Frontend:**
 - Angular, React, HTML, CSS, JavaScript, TypeScript
