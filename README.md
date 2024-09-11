@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Xavier👋
+
+I'm a fullstack software developer 
+
+### Tecnologías con las que trabajo:
+
+**Frontend:**
+- Angular, React, HTML, CSS, JavaScript, TypeScript
+
+**Backend:**
+- .NET, Spring Boot, Python
+
+**Bases de datos:**
+- PostgreSQL, MySQL, Oracle, MongoDB
 
 <!--
 **xavier-2402/xavier-2402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
