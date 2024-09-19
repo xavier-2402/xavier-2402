@@ -10,7 +10,7 @@ I'm a fullstack software developer
 **Backend:**
 - .NET, Spring Boot, Python
 
-**Bases de datos:**
+**Database:**
 - PostgreSQL, MySQL, Oracle, MongoDB
 
 <!--
